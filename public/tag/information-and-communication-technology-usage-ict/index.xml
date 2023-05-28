@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information and communication technology usage (ICT) | Dr. Zhanxia Yang</title>
+    <link>https://example.com/tag/information-and-communication-technology-usage-ict/</link>
+      <atom:link href="https://example.com/tag/information-and-communication-technology-usage-ict/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information and communication technology usage (ICT)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7403a7c20c4aef5b48f7075bdf6f3504_55613_512x512_fill_lanczos_center_3.png</url>
+      <title>Information and communication technology usage (ICT)</title>
+      <link>https://example.com/tag/information-and-communication-technology-usage-ict/</link>
+    </image>
+    
+    <item>
+      <title>How Does the Availability of Information and Communication Technology (ICT) Resources Mediate the Relationship Between Socioeconomic Status and Achievement?</title>
+      <link>https://example.com/publication/yang-how-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yang-how-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
