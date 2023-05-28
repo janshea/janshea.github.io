@@ -1,5 +1,5 @@
 ---
-title: ✍️ Second Brain
+title: ✍️ Teaching Pages
 date: 2022-09-24
 toc: false
 
