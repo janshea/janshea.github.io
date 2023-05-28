@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feeling of knowing | Dr. Zhanxia Yang</title>
+    <link>https://example.com/tag/feeling-of-knowing/</link>
+      <atom:link href="https://example.com/tag/feeling-of-knowing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feeling of knowing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7403a7c20c4aef5b48f7075bdf6f3504_55613_512x512_fill_lanczos_center_3.png</url>
+      <title>Feeling of knowing</title>
+      <link>https://example.com/tag/feeling-of-knowing/</link>
+    </image>
+    
+    <item>
+      <title>Examining the association of over-claiming with mathematics achievement</title>
+      <link>https://example.com/publication/yang-examining-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yang-examining-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
