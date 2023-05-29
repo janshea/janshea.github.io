@@ -28,7 +28,7 @@ feature:
     icon: diagram-project
     icon_pack: fas
     name: Project Enhanced Learning Research
-  - description: Excitment | Engagement 
+  - description: Excitment | Integration | Innovation 
     icon: puzzle-piece
     icon_pack: fas
     name: Technology Enchanced Learning
