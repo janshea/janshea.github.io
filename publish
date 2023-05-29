@@ -1,3 +1,4 @@
+cd /Users/zhanxiayang/Desktop/janshea.github.io
 hugo
 git add .
 git commit -m "update my website"
