@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Zhanxia Yang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu7403a7c20c4aef5b48f7075bdf6f3504_55613_512x512_fill_lanczos_center_3.png</url>
       <title>Dr. Zhanxia Yang</title>
@@ -14,65 +14,101 @@
     
     <item>
       <title>A 4pL Item Response Theory examination of perceived stigma in the screening of eating disorders with the SCOFF</title>
-      <link>https://example.com/publication/barnard-brak-4-pl-2022/</link>
+      <link>https://example.com/publications/barnard-brak-4-pl-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/barnard-brak-4-pl-2022/</guid>
+      <guid>https://example.com/publications/barnard-brak-4-pl-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting Early Elementary Teachers’ Coding Knowledge and Self-Efficacy Through Virtual Professional Development</title>
-      <link>https://example.com/publication/kapoor-supporting-2022/</link>
+      <link>https://example.com/publications/kapoor-supporting-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kapoor-supporting-2022/</guid>
+      <guid>https://example.com/publications/kapoor-supporting-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examining college students’ epistemological beliefs and mindset of intelligence and their association with learning motivations</title>
-      <link>https://example.com/publication/yang-examining-2020/</link>
+      <link>https://example.com/publications/yang-examining-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yang-examining-2020/</guid>
+      <guid>https://example.com/publications/yang-examining-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictors of Parental Premature Exiting From Early Intervention Services</title>
-      <link>https://example.com/publication/barnard-brak-predictors-2020/</link>
+      <link>https://example.com/publications/barnard-brak-predictors-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/barnard-brak-predictors-2020/</guid>
+      <guid>https://example.com/publications/barnard-brak-predictors-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Does the Availability of Information and Communication Technology (ICT) Resources Mediate the Relationship Between Socioeconomic Status and Achievement?</title>
-      <link>https://example.com/publication/yang-how-2019/</link>
+      <link>https://example.com/publications/yang-how-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yang-how-2019/</guid>
+      <guid>https://example.com/publications/yang-how-2019/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Example Page 1</title>
+      <link>https://example.com/teaching/teaching1/page1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/teaching1/page1/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://example.com/teaching/teaching2/page1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/teaching2/page1/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://example.com/teaching/teaching1/page2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/teaching1/page2/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://example.com/teaching/teaching2/page2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/teaching2/page2/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Examining the association of over-claiming with mathematics achievement</title>
-      <link>https://example.com/publication/yang-examining-2019/</link>
+      <link>https://example.com/publications/yang-examining-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yang-examining-2019/</guid>
+      <guid>https://example.com/publications/yang-examining-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Age at death and comorbidity of dementia-related disorders among individuals with autism spectrum disorder</title>
-      <link>https://example.com/publication/barnard-brak-age-2019/</link>
+      <link>https://example.com/publications/barnard-brak-age-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/barnard-brak-age-2019/</guid>
+      <guid>https://example.com/publications/barnard-brak-age-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intro-Statistics</title>
-      <link>https://example.com/intro-statistics/</link>
+      <link>https://example.com/tutorials/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/intro-statistics/</guid>
+      <guid>https://example.com/tutorials/</guid>
       <description></description>
     </item>
     
@@ -85,44 +121,34 @@
     </item>
     
     <item>
-      <title>My Teaching</title>
-      <link>https://example.com/teaching/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/</guid>
-      <description>&lt;p&gt;How to update this page:
-&lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wowchemy.com/docs/content/writing-markdown-latex/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Development of an in-vivo metric to aid visual inspection of single-case design data: Do we need to run more sessions?</title>
-      <link>https://example.com/publication/barnard-brak-development-2018/</link>
+      <link>https://example.com/publications/barnard-brak-development-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/barnard-brak-development-2018/</guid>
+      <guid>https://example.com/publications/barnard-brak-development-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differences in mathematics achievement according to opportunity to learn: A 4pL item response theory examination</title>
-      <link>https://example.com/publication/barnard-brak-differences-2018/</link>
+      <link>https://example.com/publications/barnard-brak-differences-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/barnard-brak-differences-2018/</guid>
+      <guid>https://example.com/publications/barnard-brak-differences-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physical mapping B12 resistance in the cotton</title>
-      <link>https://example.com/publication/yang-physical-2015/</link>
+      <link>https://example.com/publications/yang-physical-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yang-physical-2015/</guid>
+      <guid>https://example.com/publications/yang-physical-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine mapping a bacterial blight resistance gene in the cotton cultivar S295 (Gossypium hirsutum L.)</title>
-      <link>https://example.com/publication/yang-fine-2013/</link>
+      <link>https://example.com/publications/yang-fine-2013/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yang-fine-2013/</guid>
+      <guid>https://example.com/publications/yang-fine-2013/</guid>
       <description></description>
     </item>
     
@@ -131,6 +157,14 @@
       <link>https://example.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/</guid>
       <description></description>
     </item>
     

@@ -24,14 +24,14 @@ feature:
     icon: osf
     icon_pack: ai
     name: Open Research
-  - description: Digital trace data | Surveys | Engagement
-    icon: user-astronaut
+  - description: Discovery Learning | Engagement <br /> Across Domains
+    icon: diagram-project
     icon_pack: fas
-    name: (Games) User Research
-  - description: Ideate | Build | Test | Evaluate <br /> Development in Unity (C#)
-    icon: gamepad
+    name: Project Enhanced Learning Research
+  - description: Excitment | Engagement 
+    icon: puzzle-piece
     icon_pack: fas
-    name: Game Design
+    name: Technology Enchanced Learning
   - description: Self-determination theory | Intrinsic vs extrinsic motivation
     icon: brain
     icon_pack: fas

@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    # url: '/'
+    url: '#about'
     identifier: home
     weight: 10
   - name: Research
@@ -15,10 +15,10 @@ main:
     identifier: teaching
     url: '/teaching/'
     weight: 30
-  - name: Tutorials
-    identifier: tutorials
-    url: 'tutorials/'
-    weight: 40
+  # - name: Tutorials
+  #   identifier: tutorials
+  #   url: 'tutorials/'
+  #   weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
@@ -39,25 +39,25 @@ main:
     url: '#publications'
     parent: home
     weight: 12
-  - name: overview
-    url: 'teaching/'
-    parent: teaching
-    weight: 31
-  - name: teaching1
-    url: '/teaching/teaching1/'
-    parent: teaching
-    weight: 32
-  - name: teaching2
-    url: '/teaching/teaching2/'
-    parent: teaching
-    weight: 33
-  - name: tutorial1
-    url: 'tutorial1/'
-    parent: tutorials
-    weight: 51
-  - name: tutorial2
-    url: 'tutorial2/'
-    parent: tutorials
-    weight: 52
+  # - name: overview
+  #   url: 'teaching/'
+  #   parent: teaching
+  #   weight: 31
+  # - name: teaching1
+  #   url: '/teaching/teaching1/'
+  #   parent: teaching
+  #   weight: 32
+  # - name: teaching2
+  #   url: '/teaching/teaching2/'
+  #   parent: teaching
+  #   weight: 33
+  # - name: tutorial1
+  #   url: 'tutorial1/'
+  #   parent: tutorials
+  #   weight: 51
+  # - name: tutorial2
+  #   url: 'tutorial2/'
+  #   parent: tutorials
+  #   weight: 52
 
 

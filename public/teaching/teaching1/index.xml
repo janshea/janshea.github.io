@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching 1 | Dr. Zhanxia Yang</title>
+    <link>https://example.com/teaching/teaching1/</link>
+      <atom:link href="https://example.com/teaching/teaching1/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching 1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7403a7c20c4aef5b48f7075bdf6f3504_55613_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching 1</title>
+      <link>https://example.com/teaching/teaching1/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://example.com/teaching/teaching1/page1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/teaching1/page1/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://example.com/teaching/teaching1/page2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/teaching1/page2/</guid>
+      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
