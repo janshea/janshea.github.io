@@ -1,4 +1,5 @@
 cd /Users/zhanxiayang/Desktop/janshea.github.io
+rm ./data/publications.bib
 hugo
 git add .
 git commit -m "update my website"
