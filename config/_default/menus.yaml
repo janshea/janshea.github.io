@@ -9,7 +9,7 @@ main:
     identifier: home
     weight: 10
   - name: Research
-    url: '/publications/'
+    url: '/publication/'
     weight: 20
   - name: Teaching
     identifier: teaching
@@ -36,7 +36,7 @@ main:
     parent: home
     weight: 11
   - name: Publications
-    url: '#publications'
+    url: '#publication'
     parent: home
     weight: 12
   # - name: overview
