@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Publications
+title: GoogleScholar
 subtitle: For an up-to-date list of publications, check out my [{{< icon name="graduation-cap" >}} Google Scholar](https://scholar.google.com/citations?user=9aGe548AAAAJ&hl=en&oi=ao).
 
 
@@ -20,7 +20,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publications
+      - GoogleScholar
     tag: ''
     category: ''
     publication_type: ''
