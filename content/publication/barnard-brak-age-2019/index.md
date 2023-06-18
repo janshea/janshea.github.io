@@ -16,7 +16,7 @@ tags:
 - Death
 categories: []
 date: '2019-01-01'
-lastmod: 2023-06-17T20:16:20-04:00
+lastmod: 2023-06-17T20:30:43-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-18T00:16:20.511647Z'
+publishDate: '2023-06-18T00:30:42.946795Z'
 publication_types:
 - '2'
 abstract: Purpose Autism spectrum disorder (ASD) is a lifelong disorder that requires

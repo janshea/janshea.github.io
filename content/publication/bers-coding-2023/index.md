@@ -21,7 +21,7 @@ tags:
 - ScratchJr
 categories: []
 date: '2023-07-01'
-lastmod: 2023-06-17T20:16:22-04:00
+lastmod: 2023-06-17T20:30:45-04:00
 featured: false
 draft: false
 
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-18T00:16:22.305744Z'
+publishDate: '2023-06-18T00:30:44.815691Z'
 publication_types:
 - '2'
 abstract: "This paper describes the iterative research and evaluation of the Coding\

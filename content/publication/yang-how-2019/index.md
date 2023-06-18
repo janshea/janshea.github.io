@@ -15,7 +15,7 @@ tags:
 - Socioeconomic status (SES)
 categories: []
 date: '2019-09-01'
-lastmod: 2023-06-17T20:16:20-04:00
+lastmod: 2023-06-17T20:30:42-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-18T00:16:20.311580Z'
+publishDate: '2023-06-18T00:30:42.738888Z'
 publication_types:
 - '2'
 abstract: This study aims to investigate the impact of information and communication
