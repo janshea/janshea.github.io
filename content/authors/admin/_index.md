@@ -61,8 +61,8 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=9aGe548AAAAJ&hl=en&oi=ao
   # - icon: github
   #   icon_pack: fab
@@ -86,11 +86,11 @@ highlight_name: true
 
 * I am an Educational Psychologist specialized in developmental and learning sciences.
 
-* I have received systematic training in research design, statistics, evaluation theory, and educational psychology theories such as human development, cognition, motivation, and information processing theories.
+* I have received systematic training in research design, statistics, evaluation theory, and educational psychology theories.
 
 * I have been different roles in my profession: a college instructor, a high school teacher, and a researcher.
 
-* I am very interested in data analysis, so I acquired a graduate certificate in Data Science besides my Ph.D. in Educational Psychology.
+* I am very interested in data analysis, so I acquired a graduate certificate in Data Science alongside my Ph.D. in Educational Psychology.
 
 * I enjoy being a life-long learner. Also, encouraging others to be a life-long learner brings me the greatest joy.
 

@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-   - description: Discovery Learning | Engagement <br /> Across Domains
+  - description: Discovery Learning  <br />  Engagement <br /> Across Domains
     icon: diagram-project
     icon_pack: fas
-    name: Project Enhanced Learning Research
-  - description: Excitment | Integration | Innovation 
+    name: Project Enhanced Learning
+  - description: Excitment  <br />  Integration  <br />  Innovation 
     icon: puzzle-piece
     icon_pack: fas
     name: Technology Enchanced Learning
-  - description: Mindset of Intelligence | Expectancy and value theory <br /> Self-determination theory
+  - description: Mindset of intelligence  <br />  Expectancy and value theory <br /> Self-determination theory
     icon: brain
     icon_pack: fas
     name: Motivation in Education
