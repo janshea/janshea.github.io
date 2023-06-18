@@ -20,10 +20,10 @@ feature:
     icon: r-project
     icon_pack: fab
     name: Inferential Statistics in R
-  - description: Open data/materials/code | Registered reports <br /> Synthetic data | Team science
+  - description: Educational Resource Disparity | Special Education | <br />Gender-interest Stereotypes in STEM education 
     icon: osf
     icon_pack: ai
-    name: Open Research
+    name: Equity in Education
   - description: Discovery Learning | Engagement <br /> Across Domains
     icon: diagram-project
     icon_pack: fas
@@ -32,10 +32,10 @@ feature:
     icon: puzzle-piece
     icon_pack: fas
     name: Technology Enchanced Learning
-  - description: Self-determination theory | Intrinsic vs extrinsic motivation
+  - description: Mindset of Intelligence | Expectancy and value theory <br /> Self-determination theory
     icon: brain
     icon_pack: fas
-    name: Motivational Psychology
+    name: Motivation in Education
   - description: Thematic analysis | Grounded theory
     icon: file-audio
     icon_pack: fas
