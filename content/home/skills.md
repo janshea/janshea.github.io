@@ -24,7 +24,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: Mplus | SAS | SPSS 
+  - description: Mplus | SAS | SPSS | STATA 
     icon: cubes
     icon_pack: fas
     name: Commercial Statistics Software

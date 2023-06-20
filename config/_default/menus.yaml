@@ -9,6 +9,7 @@ main:
     identifier: home
     weight: 10
   - name: Research
+    identifier: research
     url: '/publication/'
     weight: 20
   - name: Teaching
@@ -61,3 +62,12 @@ main:
   #   weight: 52
 
 
+# sub-research menu
+  - name: Interests
+    url: '#ResearchInterest'
+    parent: research
+    weight: 11
+  - name: Publications
+    url: '#publication'
+    parent: research
+    weight: 12

@@ -10,9 +10,12 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "RESEARCH"
+  image: 
+    filename: blackboard.jpg
 
 banner:
   image: "blackboard.jpg"
+
 ---
+

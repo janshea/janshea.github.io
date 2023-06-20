@@ -20,7 +20,7 @@ feature:
     icon: diagram-project
     icon_pack: fas
     name: Project Enhanced Learning
-  - description: Excitment  <br />  Integration  <br />  Innovation 
+  - description: Excitement  <br />  Integration  <br />  Innovation 
     icon: puzzle-piece
     icon_pack: fas
     name: Technology Enchanced Learning
