@@ -36,10 +36,18 @@ main:
     url: '#skills'
     parent: home
     weight: 11
-  - name: Publications
-    url: '#publication'
+  - name: Research Interests
+    url: '#research'
     parent: home
     weight: 12
+  - name: Publications
+    url: '#publications'
+    parent: home
+    weight: 13
+  - name: Popular Topics
+    url: '#tags'
+    parent: home
+    weight: 14
   # - name: overview
   #   url: 'teaching/'
   #   parent: teaching
@@ -62,12 +70,12 @@ main:
   #   weight: 52
 
 
-# sub-research menu
-  - name: Interests
-    url: '#ResearchInterest'
-    parent: research
-    weight: 11
-  - name: Publications
-    url: '#publication'
-    parent: research
-    weight: 12
+# # sub-research menu
+#   - name: Interests
+#     url: '#publication'
+#     parent: research
+#     weight: 11
+#   - name: Publications
+#     url: '/publication/'
+#     parent: research
+#     weight: 12
