@@ -69,10 +69,10 @@
     </item>
     
     <item>
-      <title>Example Page 1</title>
-      <link>https://example.com/teaching/teaching1/page1/</link>
+      <title>Behavioral Theories of Learning</title>
+      <link>https://example.com/teaching/teaching1/page2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/teaching1/page1/</guid>
+      <guid>https://example.com/teaching/teaching1/page2/</guid>
       <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
 </description>
     </item>
@@ -88,19 +88,245 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://example.com/teaching/teaching1/page2/</link>
+      <link>https://example.com/teaching/teaching2/page2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/teaching1/page2/</guid>
+      <guid>https://example.com/teaching/teaching2/page2/</guid>
       <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page 2</title>
-      <link>https://example.com/teaching/teaching2/page2/</link>
+      <title>Information Processing Theory</title>
+      <link>https://example.com/teaching/teaching1/page1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/teaching2/page2/</guid>
-      <description>&lt;p&gt;Content&amp;hellip;&lt;/p&gt;
+      <guid>https://example.com/teaching/teaching1/page1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;There are several models of information processing theory. The most well-known one is the one involving &lt;em&gt;sensory register&lt;/em&gt;,  &lt;em&gt;short-term memory&lt;/em&gt;, and &lt;em&gt;long-term memory&lt;/em&gt; as shown in the figure below.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/media/InfoProcessing.png&#34; alt=&#34;InfoProcessingModel&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The processes involving above procedures are called  &lt;strong&gt;&lt;em&gt;Executive Processes&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They are like commands to the learner&amp;rsquo;s brain.&lt;/li&gt;
+&lt;li&gt;These processes were controlled by the learner, either consciously or unconsciously.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Executive Processing&lt;/em&gt;&lt;/strong&gt; determines what one chooses to put into long-term memory and how much one thinks about the stimuli&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s now take a look of what each comopent of the processing means.&lt;/p&gt;
+&lt;h3 id=&#34;sensory-register&#34;&gt;Sensory Register&lt;/h3&gt;
+&lt;p&gt;Our brain 🧠 receives tons of information from our five senses (or maybe more than just the five senses) at a time.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s first experiment together.
+Let&amp;rsquo;s think about a place you go very often, see if you can recall the setting of the evironment such as color, texture, sound, position, etc.&lt;/p&gt;
+&lt;p&gt;From the experiement,  we may find out that we are not able to tell some of them. It is interesting that we see, hear, and touch the setting everyday, but why we are not able to tell. This is because they have never been into our &lt;strong&gt;&lt;em&gt;sensory register&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Two key concepts are related to &lt;strong&gt;&lt;em&gt;sensory register&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Attention&lt;/em&gt;&lt;/strong&gt;: actively attending stimuli by choice
+&lt;ul&gt;
+&lt;li&gt;It is important to note that &lt;strong&gt;&lt;em&gt;attention&lt;/em&gt;&lt;/strong&gt; is a limited resource.&lt;/li&gt;
+&lt;li&gt;We constantly pay attention to various things. If a learner&amp;rsquo;s attention is not in the classroom, it must be at somewhere else.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;Perception&lt;/em&gt;&lt;/strong&gt;: infomration registered in sesory register is perceptions.
+&lt;ul&gt;
+&lt;li&gt;They are mental interpretation based on our knowledge, experience, mental state, motivation, and other factors.&lt;/li&gt;
+&lt;li&gt;In other words, they may not necessarily be facts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Based on the concept of &lt;strong&gt;&lt;em&gt;sesory register&lt;/em&gt;&lt;/strong&gt;, it is important for us as educators to help students pay attention to the things they are learning.&lt;/p&gt;
+&lt;p&gt;How to gain attention in a classroom?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use cues
+&lt;ul&gt;
+&lt;li&gt;teachers lower their voices.&lt;/li&gt;
+&lt;li&gt;teachers form routines of certain clapping to ask students to respond with clapping.&lt;/li&gt;
+&lt;li&gt;teachers flash the classroom light.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make emotional connection with material.
+&lt;ul&gt;
+&lt;li&gt;Like the journalist would use &amp;ldquo;Senate Kills Mass Transit Proposal&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Incorporate surprising elements (arouse students’ interest);
+&lt;ul&gt;
+&lt;li&gt;I have demonstrated Mobius Strip in class as an example.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Activate students&amp;rsquo; relevant prior knowledge.&lt;/li&gt;
+&lt;li&gt;Warn about material that will be on the test.
+&lt;ul&gt;
+&lt;li&gt;“This will be on tomorrow’s test.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Research Evidence on some of the practices.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Armony et al. (2007) Experimental tests revealed that both positive vocalizations, t(39) = 4.68, d = 0.74, p &amp;lt; .001, and negative vocalizations, t(39) = 4.76, d = 0.75, p &amp;lt; .001, were remembered better than neutral ones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, it&amp;rsquo;s time to reflect. Have you used or observed some of the practices to gain attention? What are they? Do they work well in your opinion?&lt;/p&gt;
+&lt;h3 id=&#34;short-term-memory-working-memory&#34;&gt;Short-Term Memory (Working Memory)&lt;/h3&gt;
+&lt;p&gt;After information registered in sesory register, some will get lost and others will pass onto &lt;strong&gt;&lt;em&gt;Working Memory&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Again, let&amp;rsquo;s experiment it first by checking out this Youtube &lt;a href=&#34;https://www.youtube.com/watch?v=z7UTkg0P-GA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;How did it go with the experiment? If you were like me, you probably missed several questions or even were not sure if certain items were there when they were asked. This is normal because our &lt;strong&gt;&lt;em&gt;Working Memory&lt;/em&gt;&lt;/strong&gt; has limitations.&lt;/p&gt;
+&lt;p&gt;How does &lt;strong&gt;&lt;em&gt;Short-Term Memory (STM)&lt;/em&gt;&lt;/strong&gt; work?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;holds conscious thoughts and information actively being used&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;works with new stimuli and information from long-term memory&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;rehearsal&lt;/em&gt;&lt;/strong&gt;: repeating infomation to keep it in working memory longer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited capacity.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;STM can hold about 7 (plus or minus 2) bits of information at a time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Limited time for storage.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;usually can hold for seconds (e.g., 30 seconds).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, we should be aware of individual differences in working memory capacity. One of my students shared that she had imagery memory, after the given time in the video, she tried to draw all of them out (see her example here) and was able to answer correctly to the experiment in the video.&lt;/p&gt;
+&lt;p&gt;Knowing &lt;strong&gt;&lt;em&gt;Short-Term Memory&lt;/em&gt;&lt;/strong&gt;, so what? Do you know that Dory lost STM and what happened to Dory? This is a disease called anterograde amnesia. Well, Dory&amp;rsquo;s case is not the point but it conveys the point. when you read a sentence, you keep the beginning of the sentence in your short-term memory until you reach the end, which is vital for understanding the full context of the sentence. Similarly, mental arithmetic requires us to keep numbers in our short-term memory as we manipulate them.&lt;/p&gt;
+&lt;p&gt;Knowing the importance of STM, here are some educational implications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Allocate time for rehearsal during classroom lessons&lt;/li&gt;
+&lt;li&gt;Organize material into familiar patterns for students;&lt;/li&gt;
+&lt;li&gt;Avoid information overload&lt;/li&gt;
+&lt;li&gt;Review background knowledge before presenting new info&lt;/li&gt;
+&lt;li&gt;Teach strategies for making efficient use of working memory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now, it&amp;rsquo;s your turn to reflect strategies that you&amp;rsquo;ve used to help you store informaiton in STM.&lt;/p&gt;
+&lt;h3 id=&#34;long-term-memory&#34;&gt;Long Term Memory&lt;/h3&gt;
+&lt;p&gt;Let&amp;rsquo;s explore it first. Recall a fun activity in your childhood and then share the memorable scenes.
+Or, recall a mnemonic that you&amp;rsquo;ve learned in school. What does it refer to?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Long-Term Memory (LTM)&lt;/em&gt;&lt;/strong&gt; is the component of memory system that keeps memories long-term. There are several memory types in LTM shown in the figure below.&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 100px;&#34;&gt;
+
+&lt;pre&gt;- Memory types
+  - **Declarative**  (AKA explicit) memory
+     - **Episodic** memory (e.g., episodes of events)
+     - **Semantic** memory (e.g., facts)
+  - **Non-delcarative** (AKA procedural) memory&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Declarative memory (explicit memory): conscious memory (typically one realizes the active retrieving), including episodic and semantic&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Episodic: images of experiences arranged by event’s space/time
+&lt;ul&gt;
+&lt;li&gt;Sensory information, spatial knowledge, language, emotions, and motor information&lt;/li&gt;
+&lt;li&gt;Flashbulb memory: capture vivid details of memorable event&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Semantic: declarative; arranged in networks of related ideas
+&lt;ul&gt;
+&lt;li&gt;Schemata: categorical groupings of related ideas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Non-declarative (Or, Procedural; Or implicit) memory: are often unconscious such as how to do something, especially physical tasks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stored in different part of brain than semantic and episodic memory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are variations in retention of different types of information in LTM. Usually, there is a rapid drop in retention in first weeks after instruction and info retained 12-24 weeks after instruction may stay in LTM.&lt;/p&gt;
+&lt;p&gt;Instructional strategies that actively involve students promote greater long-term retention such as role-playing, fieldwork, and active processing. On the contrary, traditional lectures are low in retention in LTM.&lt;/p&gt;
+&lt;h2 id=&#34;other-information-processing-models&#34;&gt;Other Information-Processing Models&lt;/h2&gt;
+&lt;h3 id=&#34;levels-of-processing-theory&#34;&gt;Levels-of-processing theory:&lt;/h3&gt;
+&lt;p&gt;subject stimuli to different levels of mental processing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Retain only info subjected to most thorough processing&lt;/li&gt;
+&lt;li&gt;Differentiate deep processing and shallow processing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One example instructional strategy is &amp;ldquo;Productive Failure&amp;rdquo;, which is intentionally design wrestling opportunities for students before they learn the content.&lt;/p&gt;
+&lt;h3 id=&#34;dual-code-theory&#34;&gt;Dual code theory:&lt;/h3&gt;
+&lt;p&gt;Infomation retained in long-term memory in 2 forms: visual and verbal forms corresponding to episodic and semantic memory.&lt;/p&gt;
+&lt;p&gt;Based on this theory, recall of information represented both visually and verbally is better.&lt;/p&gt;
+&lt;h2 id=&#34;forgetting-and-remembering&#34;&gt;Forgetting and Remembering&lt;/h2&gt;
+&lt;p&gt;Individual differences in resistance to interference
+Different ability to focus on key information, screen out interference, which affects cognitive performance.&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Effect on Memory
+  - **Inhibition**  
+     - **Retroactive inhibition**
+     - **Proactive inhibition**
+  - **Facilitation**
+     - **Retroactive facilitation**
+     - **Proactive facilitation** &lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Retroactive inhibition: confusion between what was learned previously and new learning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proactive inhibition: previous knowledge interfering with later learning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proactive facilitation: when prior learning makes new learner easier;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Retroactive facilitation: when new learning enhances prior learning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Primacy effect: tendency to learn first items presented&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organize lessons with most essential new info first&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Recency effect: tendency to learn last elements&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automaticity: gained through practice beyond amount needed to establish information or skills in long-term memory&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Implication for Practice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Distributed practice (versus massed) best for long-term retention&lt;/li&gt;
+&lt;li&gt;Enactment: learn by doing; perform a task to learn it&lt;/li&gt;
+&lt;li&gt;Generation: to retain new info, create something with it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-can-memory-strategies-be-taught&#34;&gt;How Can Memory Strategies Be Taught?&lt;/h3&gt;
+&lt;p&gt;Factual material must be learned as efficiently and effectively as possible to leave time and mental energy for meaningful learning, such as problem- solving, conceptual, and creative activities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paired-associate learning: respond with one member of a pair when given the other member (such as states, capitals)&lt;/li&gt;
+&lt;li&gt;Serial learning: memorize lists in particular order (notes on musical staff, elements in order of atomic weight)&lt;/li&gt;
+&lt;li&gt;Free-recall: memorize list in no special order&lt;/li&gt;
+&lt;li&gt;Imagery involved in many memory techniques (loci method, pegword)&lt;/li&gt;
+&lt;li&gt;Initial-letter strategies: arrange first letter of words in a list to create easily remembered word or phrase.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rote-learning-vs-meaningful-learning&#34;&gt;Rote learning vs. meaningful learning&lt;/h4&gt;
 </description>
     </item>
     
